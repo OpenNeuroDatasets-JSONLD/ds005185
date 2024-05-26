@@ -1,0 +1,11 @@
+onset	duration	trial_type	writtenTime	pressedTrigger
+0	0	Start of recording	22.20	True
+240.000005811453	0	Sync	22.24	True
+360.000008717179	0	Electrodetest	22.26	True
+1920.00000625849	0	Went to bed	22.52	True
+2880.00000938773	0	Lights Out	23.08	True
+25860.0000075996	0	Got up	5.31	False
+19140.0000058115	0	Vågen	3.39	True
+20160.0000053644	0	Forsøg på at sove	3.56	True
+22200.0000044703	0	genereret af lyde	4.30	True
+24540.0000058115	0	vågen	5.09	True

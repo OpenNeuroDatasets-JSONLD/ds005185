@@ -1,0 +1,13 @@
+{
+    "Name": "EESM1",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Kaare B. Mikkelsen",
+        "Preben Kidmose",
+        "Yousef Rezaei Tabar"
+    ],
+    "InstitutionName": "Aarhus University",
+    "InstitutionalDepartmentName": "Department of Engineering",
+    "InstitutionAddress": "Finlandsgade 22, 8200, Aarhus N"
+}
