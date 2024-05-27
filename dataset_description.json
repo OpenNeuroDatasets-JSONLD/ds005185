@@ -1,5 +1,5 @@
 {
-    "Name": "EESM1",
+    "Name": "EESM19",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
@@ -9,5 +9,6 @@
     ],
     "InstitutionName": "Aarhus University",
     "InstitutionalDepartmentName": "Department of Engineering",
-    "InstitutionAddress": "Finlandsgade 22, 8200, Aarhus N"
+    "InstitutionAddress": "Finlandsgade 22, 8200, Aarhus N",
+    "License": "CC0"
 }
