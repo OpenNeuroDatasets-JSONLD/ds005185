@@ -1,7 +1,0 @@
-onset	duration	trial_type	writtenTime	pressedTrigger
-0	0	Start of recording	23.05	True
-60.0000064820051	0	Sync	23.06	True
-180.000009387732	0	Electrodetest	23.08	True
-3240.00000804663	0	Went to bed	23.59	True
-3480.0000037998	0	Lights Out	0.03	True
-34800.0000078231	0	Got up	8.45	True
