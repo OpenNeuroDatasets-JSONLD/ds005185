@@ -1,5 +1,5 @@
 {
-    "Name": "EESM19",
+    "Name": "Ear-EEG Sleep Monitoring 2019 (EESM19)",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
